@@ -18,6 +18,10 @@ for more details.
 You should have received a copy of the GNU General Public License
 along with GCC; see the file COPYING3.  If not see
 <http://www.gnu.org/licenses/>.  */
+gcc的词法分析器
+lex 
+
+gcc的词法分析就是这里开始的
 
 #include "config.h"
 #include "system.h"
